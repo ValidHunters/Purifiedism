@@ -3,3 +3,10 @@
 */bin
 */obj
 *.so
+
+#cl.EXE
+*.dll
+*.ilk
+*.obj
+*.pdb
+*.sln
